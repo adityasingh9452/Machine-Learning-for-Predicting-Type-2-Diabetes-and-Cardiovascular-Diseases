@@ -1,0 +1,2 @@
+# Machine-Learning-for-Predicting-Type-2-Diabetes-and-Cardiovascular-Diseases
+Objective and Problem Statement: The goal of this project is to develop a machine learning model to predict the risk of Type 2 diabetes and cardiovascular diseases (CVD) based on various health markers. The project specifically explores the impact of a low-fat diet and hyperinsulinemia as potential causes of metabolic syndrome. 
